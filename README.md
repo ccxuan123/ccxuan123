@@ -1,8 +1,8 @@
 ### Hi there, I'm [Sean Chai](https://github.com/ccxuan123) 
 
 I'm a Junior ASIC Front-End Engineer working in Malaysia.
-- 🔭Currently learning ASIC Front-End design flow.
-- 🌱Interested in fun and weird projects.
+- 🔭 Currently learning ASIC Front-End design flow.
+- 🌱 Interested in fun and weird projects.
 - 📫 How to reach me: ccxuan123@gmail.com
 - ⚡ Fun fact: I'm a weeb!
 
