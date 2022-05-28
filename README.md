@@ -1,7 +1,5 @@
 ### Hi there, I'm [Sean Chai](https://github.com/ccxuan123) 
 
-<div class="tenor-gif-embed" data-postid="22746564" data-share-method="host" data-aspect-ratio="1.79775" data-width="100%"><a href="https://tenor.com/view/anime-hacking-speed-fast-gif-22746564">Anime Hacking GIF</a>from <a href="https://tenor.com/search/anime-gifs">Anime GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 <img align="left" src="https://github.com/ccxuan123/ccxuan123/blob/main/media/anime-hacking.gif"/>
 
 I'm a Junior ASIC Front-End Engineer working in Malaysia.
